@@ -44,4 +44,4 @@ resource "azurerm_virtual_network_peering" "test_to_hub" {
 
   allow_virtual_network_access = true
   allow_forwarded_traffic      = true
-
+}
