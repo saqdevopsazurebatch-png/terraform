@@ -5,9 +5,6 @@ output "hub_vnet_id" {
 output "test_vnet_id" {
   value = module.test.vnet_id
 }
-output "test_vnet_id" {
-  value = module.test.vnet_id
-}
 
 
 
